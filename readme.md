@@ -1,0 +1,1 @@
+This repo is for practice : Foundation of AI & Data Science
