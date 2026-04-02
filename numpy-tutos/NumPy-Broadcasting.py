@@ -13,3 +13,8 @@ arr_1d = np.array(
 
 print(arr_2d + arr_1d)
 
+
+a  = 5
+
+print(a + arr_2d)
+
