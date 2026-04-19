@@ -10,3 +10,13 @@ print(df.head())
 
 #show 5 last record
 print(df.tail())
+
+
+#numbre of rows & columns
+print(df.shape)
+
+#columns name
+print(df.columns)
+
+#info about data in file (like data type, ...)
+print(df.info())
